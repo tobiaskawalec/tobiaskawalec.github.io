@@ -1,14 +1,12 @@
 ---
 permalink: /
-title: "Tobias Kawalec' webpage"
+title: "Welcome!"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-Welcome to my webpage!
-======
 I am a DPhil (PhD) student in Economics at the [University of Oxford](https://www.economics.ox.ac.uk/), supervised by [Michael McMahon](https://mcmahonecon.com/) and [Martin Ellison](https://users.ox.ac.uk/~exet2581/). You can find my CV [here](/files/cv.pdf).
 
 My research interests center around theotretical macroeconomics, with a particular focus on monetary-fiscal policy interactions and the effects of supply chain disruptions. Recently, I have also been affiliated with the World Bank, the Kiel Institute for the World Economy, and Deutsche Bundesbank.
