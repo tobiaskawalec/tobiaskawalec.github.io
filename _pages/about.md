@@ -9,7 +9,7 @@ redirect_from:
 
 I am a DPhil (PhD) student in Economics at the [University of Oxford](https://www.economics.ox.ac.uk/), supervised by [Michael McMahon](https://mcmahonecon.com/) and [Martin Ellison](https://users.ox.ac.uk/~exet2581/). You can find my CV [here](/files/cv.pdf).
 
-My research interests center around theotretical macroeconomics, with a particular focus on monetary-fiscal policy interactions and the effects of supply chain disruptions. Recently, I have also been affiliated with the World Bank, the Kiel Institute for the World Economy, and Deutsche Bundesbank.
+My research interests center around theotretical macroeconomics, with a particular focus on monetary-fiscal policy interactions. Recently, I have also been affiliated with the World Bank, the Kiel Institute for the World Economy, and Deutsche Bundesbank.
 
 
 <!---
@@ -24,7 +24,7 @@ Working Papers
   <div class="abstract">
    <strong>Abstract:</strong>  In this paper, we analyze the importance of inflation-indexation of a part of the stock of government debt. We establish empirically using both Local Projections and a narratively identified powerful fiscal event that sovereign deficit shocks are more inflationary when the share of government-issued inflation-indexed debt is higher. We leverage this finding to introduce inflation-indexed debt in macroeconomic models focusing on interactions of fiscal and monetary policy through policy rules, where we show that: (i) even absent further frictions, inflation-indexed debt makes the price level backward-looking (i.e., it becomes a jump-state variable), (ii) it alters bounds that pin down 'active fiscal policy', (iii) it allows us to discriminate to some degree between 'fiscally-led' mechanisms and 'HANK-type' mechanisms surpassing Ricardian equivalence, and (iv) in a calibrated HANK model, changing the share of inflation-indexed government debt from a baseline case without indexed debt to levels observed in the US increases the inflationary effect of a 1% deficit-to-GDP shock by 0.21 percentage points under a fiscally-led policy mix, while there is no sizable effect under a monetary-led policy mix. 
   </div>
-  <p style="font-size: 0.9em; color: gray;"><em>Upcoming presentations:</em> GRAPE Summer Workshop 2025 | CEBRA Annual Meeting 2025 | ASSA 2026 </p>
+  <p style="font-size: 0.9em; color: gray;"><em>Upcoming presentations:</em> CEBRA Annual Meeting 2025 | ASSA 2026 </p>
 </div>
 
 
@@ -43,6 +43,24 @@ For site content, there is one markdown file for each type of content, which are
 
 Work in progress
 ======
+
+<div class="work-entry">
+  <h3>Our Deficit, Your Problem: Fiscal Sustainability and Exchange Rates </h3>
+  <p style="font-size: 0.9em; margin-top: 0.3rem;">
+    (joint with <a href="https://chrishyland.github.io/" target="_blank">Chris Hyland</a>)
+  </p>
+    <p style="font-size: 0.9em; color: gray;"><em>Upcoming presentations:</em> Austrian National Bank | University of Konstanz </p>
+</div>
+
+
+<div class="work-entry">
+  <h3>Inflation-Indexed Debt and the Risks of Fiscal Dominance</h3>
+  <p style="font-size: 0.9em; margin-top: 0.3rem;">
+    (joint with <a href="https://users.ox.ac.uk/~exet2581/" target="_blank">Martin Ellison</a>)
+  </p>
+    <p style="font-size: 0.9em; color: gray;"><em>Upcoming presentations:</em> CEPR 2nd Workshop on Modelling Fiscal Policy | Riksbank Research Conference on New Challenges for Monetary-Fiscal Policy Interactions </p>
+</div>
+
 
 <div class="work-entry">
   <h3>Towards a Bullwhip Theory of Supply Chains</h3>
