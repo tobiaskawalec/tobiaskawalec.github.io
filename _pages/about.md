@@ -9,7 +9,7 @@ redirect_from:
 
 I am a DPhil (PhD) student in Economics at the [University of Oxford](https://www.economics.ox.ac.uk/), supervised by [Michael McMahon](https://mcmahonecon.com/) and [Martin Ellison](https://users.ox.ac.uk/~exet2581/). You can find my CV [here](/files/cv.pdf).
 
-My research interests center around theotretical macroeconomics, with a particular focus on monetary-fiscal policy interactions. Recently, I have also been affiliated with the World Bank, the Kiel Institute for the World Economy, and Deutsche Bundesbank.
+My research interests center around theotretical macroeconomics, with a particular focus on the importance of fiscal deficits and monetary-fiscal policy interactions. Recently, I have also been affiliated with the World Bank, the Kiel Institute for the World Economy, and Deutsche Bundesbank.
 
 
 <!---
@@ -24,11 +24,31 @@ Working Papers
   <div class="abstract">
    <strong>Abstract:</strong>  In this paper, we analyze the importance of inflation-indexation of a part of the stock of government debt. We establish empirically using both Local Projections and a narratively identified powerful fiscal event that sovereign deficit shocks are more inflationary when the share of government-issued inflation-indexed debt is higher. We leverage this finding to introduce inflation-indexed debt in macroeconomic models focusing on interactions of fiscal and monetary policy through policy rules, where we show that: (i) even absent further frictions, inflation-indexed debt makes the price level backward-looking (i.e., it becomes a jump-state variable), (ii) it alters bounds that pin down 'active fiscal policy', (iii) it allows us to discriminate to some degree between 'fiscally-led' mechanisms and 'HANK-type' mechanisms surpassing Ricardian equivalence, and (iv) in a calibrated HANK model, changing the share of inflation-indexed government debt from a baseline case without indexed debt to levels observed in the US increases the inflationary effect of a 1% deficit-to-GDP shock by 0.21 percentage points under a fiscally-led policy mix, while there is no sizable effect under a monetary-led policy mix. 
   </div>
-  <p style="font-size: 0.9em; color: gray;"><em>Upcoming presentations:</em> CEBRA Annual Meeting 2025 | ASSA 2026 </p>
+  <p style="font-size: 0.9em; color: gray;"><em>Upcoming presentations:</em> ASSA 2026 </p>
 </div>
 
 
+<div class="work-entry">
+  <h3><a href="/files/CCH_TK_OurDeficitYourProblem.pdf" target="_blank">Our Deficit, Your Problem: Fiscal Sustainability and Exchange Rates</a></h3>
+  <p style="font-size: 0.9em; margin-top: 0.3rem;">
+    (joint with <a href="https://chrishyland.github.io/" target="_blank">Chris Hyland</a>)
+  </p>
+  <div class="abstract">
+   <strong>Abstract:</strong>  We develop and estimate an open-economy present-value framework for the government budget constraint that embeds discount factors, exchange-rate expectations, and time-varying foreign-exchange risk premia. Using newly constructed market-value data for U.K. and U.S. public debt covering 1975-2024, we document that unexpected changes in the debt ratio are split equally between revisions to expected future surpluses and discount-rate news; the latter reflects movements in global real yields, revisions to expected real exchange rates, and UIP-premium shocks. Surplus innovations recovered from market prices is shown to materially affect the bilateral real exchange rate. We then present a tractable two-country model in which fiscal shocks in a financial hegemon propagate internationally through exchange-rate adjustments that feed back into real interest rates; the model rationalises the empirical shares and predicts “fiscal contagion” across sovereign balance sheets. A continuous-time general equilibrium framework further shows how exchange rate movements can be induced by changes to relative surpluses and debt issuances.
+  </div>
+    <p style="font-size: 0.9em; color: gray;"><em>Upcoming presentations:</em> Austrian National Bank | University of Konstanz </p>
+</div>
 
+
+<div class="work-entry">
+  <h3><a href="/files/IndexedIndeterminacy.pdf" target="_blank">Inflation-Indexed Debt and the Risks of Fiscal Dominance</h3>
+  <p style="font-size: 0.9em; margin-top: 0.3rem;">
+    (joint with <a href="https://users.ox.ac.uk/~exet2581/" target="_blank">Martin Ellison</a>)
+  </p>
+    <p style="font-size: 0.9em; color: gray;"><em>Upcoming presentations:</em> CEPR 2nd Workshop on Modelling Fiscal Policy | Riksbank Research Conference on New Challenges for Monetary-Fiscal Policy Interactions </p>
+</div>
+
+The origins of recent U.S. inflation are the subject of much debate. One argument is that it has its roots in an expansion of debt-driven government spending, in what has been labelled fiscal dominance (Leepre, 1991) or a fiscally-led policy mix (Bianchi et al., 2023). We show that the risk of such fiscal dominance depends on the proportion of government debt that is indexed to inflation. Generally, the more debt is inflation-indexed the more likely fiscal policy is to dominate, even when the share of indexed debt is only around 10% as in the U.S. Empirical evidence links high proportions of inflation-indexed debt to low central bank independence, a high probability of suspending fiscal rules, and larger reactions of inflation to fiscal shocks.
 
 <!---
 Site-wide configuration
@@ -45,22 +65,10 @@ Work in progress
 ======
 
 <div class="work-entry">
-  <h3>Our Deficit, Your Problem: Fiscal Sustainability and Exchange Rates </h3>
+  <h3>Debt and Interest Management Beyond Taylor Rules</h3>
   <p style="font-size: 0.9em; margin-top: 0.3rem;">
-    (joint with <a href="https://chrishyland.github.io/" target="_blank">Chris Hyland</a>)
   </p>
-    <p style="font-size: 0.9em; color: gray;"><em>Upcoming presentations:</em> Austrian National Bank | University of Konstanz </p>
 </div>
-
-
-<div class="work-entry">
-  <h3>Inflation-Indexed Debt and the Risks of Fiscal Dominance</h3>
-  <p style="font-size: 0.9em; margin-top: 0.3rem;">
-    (joint with <a href="https://users.ox.ac.uk/~exet2581/" target="_blank">Martin Ellison</a>)
-  </p>
-    <p style="font-size: 0.9em; color: gray;"><em>Upcoming presentations:</em> CEPR 2nd Workshop on Modelling Fiscal Policy | Riksbank Research Conference on New Challenges for Monetary-Fiscal Policy Interactions </p>
-</div>
-
 
 <div class="work-entry">
   <h3>Towards a Bullwhip Theory of Supply Chains</h3>
@@ -68,4 +76,20 @@ Work in progress
     (joint with <a href="https://mcmahonecon.com" target="_blank">Michael McMahon</a>)
   </p>
 </div>
+
+
+
+
+Policy-focussed work
+======
+<div class="paper-entry">
+  <h3><a href="/files/GulfFiscalMultipliers.pdf" target="_blank">Fiscal Multipliers in Resource-Rich Economies: Evidence from the Gulf Countries</a></h3>
+  <p style="font-size: 0.9em; margin-top: 0.3rem;">
+    (joint with M. Khudadad Chattha)
+  </p>
+  <div class="abstract">
+   <strong>Abstract:</strong>  This paper utilizes the unique dynamics of fiscal budgeting in countries with a large hydrocarbon sector to estimate fiscal multipliers. The main identifying assumption rests on the idea that exogenously identified global hydrocarbon demand shocks can be considered plausible instruments for the fiscal space of countries in which that space is significantly dictated by hydrocarbon income, with such shocks being uncorrelated with non-hydrocarbon output at the same time. Using a local projection-instrumental variables (LP-IV) framework, the paper estimates that short-run fiscal expenditure multipliers to be in the ballpark of 0.1-0.4. In addition, we find that multipliers are at the upper end of this interval during recessions, indicating that fiscal policy in the Gulf countries is particularly effective during economic downturns.
+  </div>
+</div>
+
 
