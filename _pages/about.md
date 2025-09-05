@@ -82,7 +82,7 @@ Work in progress
 
 
 
-Policy-focussed work
+Policy-focused work
 ======
 <div class="paper-entry">
   <h3><a href="/files/GulfFiscalMultipliers.pdf" target="_blank">Fiscal Multipliers in Resource-Rich Economies: Evidence from the Gulf Countries</a></h3>
