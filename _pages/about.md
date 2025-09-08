@@ -9,7 +9,7 @@ redirect_from:
 
 I am a DPhil (PhD) student in Economics at the [University of Oxford](https://www.economics.ox.ac.uk/), supervised by [Michael McMahon](https://mcmahonecon.com/) and [Martin Ellison](https://users.ox.ac.uk/~exet2581/). You can find my CV [here](/files/cv.pdf).
 
-My research interests center around theotretical macroeconomics, with a particular focus on the importance of fiscal deficits and monetary-fiscal policy interactions. Recently, I have also been affiliated with the World Bank, the Kiel Institute for the World Economy, and Deutsche Bundesbank.
+My research interests center around theoretical macroeconomics, with a particular focus on the importance of fiscal deficits and monetary-fiscal policy interactions. Recently, I have also been affiliated with the World Bank, the Kiel Institute for the World Economy, and Deutsche Bundesbank.
 
 
 <!---
