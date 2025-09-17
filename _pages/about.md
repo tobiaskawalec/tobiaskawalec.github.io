@@ -33,7 +33,7 @@ Working Papers
   <p style="font-size: 0.9em; margin-top: 0.3rem;">
     (joint with <a href="https://chrishyland.github.io/" target="_blank">Chris Hyland</a>)
   </p>
-  <p style="font-size: 0.9em; color: gray;"><em>Upcoming presentations:</em> Austrian National Bank | University of Konstanz </p>
+  <p style="font-size: 0.9em; color: gray;"><em>Upcoming presentations:</em> Austrian National Bank | University of Konstanz | LSE Macro PhD Workshop </p>
   <div class="abstract">
    <strong>Abstract:</strong>  We develop and estimate an open-economy present-value framework for the government budget constraint that embeds discount factors, exchange-rate expectations, and time-varying foreign-exchange risk premia. Using newly constructed market-value data for U.K. and U.S. public debt covering 1975-2024, we document that unexpected changes in the debt ratio are split equally between revisions to expected future surpluses and discount-rate news; the latter reflects movements in global real yields, revisions to expected real exchange rates, and UIP-premium shocks. Surplus innovations recovered from market prices is shown to materially affect the bilateral real exchange rate. We then present a tractable two-country model in which fiscal shocks in a financial hegemon propagate internationally through exchange-rate adjustments that feed back into real interest rates; the model rationalises the empirical shares and predicts “fiscal contagion” across sovereign balance sheets. A continuous-time general equilibrium framework further shows how exchange rate movements can be induced by changes to relative surpluses and debt issuances.
   </div>
