@@ -43,7 +43,7 @@ Working Papers
 
 
 <div class="paper-entry">
-  <h3><a href="/files/IndexedIndeterminacy.pdf" target="_blank">Inflation-Indexed Debt and the Risks of Fiscal Dominance</a></h3>
+  <h3><a href="/files/IndexFisDom.pdf" target="_blank">Inflation-Indexed Debt and the Risks of Fiscal Dominance</a></h3>
   <p style="font-size: 0.9em; margin-top: 0.3rem;">
     (joint with <a href="https://users.ox.ac.uk/~exet2581/" target="_blank">Martin Ellison</a>)
   </p>
