@@ -11,6 +11,8 @@ I am a DPhil (PhD) student in Economics at the [University of Oxford](https://ww
 
 My research interests center around theoretical macroeconomics, with a particular focus on the importance of fiscal deficits and monetary-fiscal policy interactions. Recently, I have also been affiliated with the World Bank, the Kiel Institute for the World Economy, and Deutsche Bundesbank.
 
+I will be on the 2025/2026 job market.
+
 
 <!---
 You can find my research [here](https://tobiaskawalec.github.io/research) and my CV [here](https://tobiaskawalec.github.io/cv).
