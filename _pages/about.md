@@ -43,10 +43,14 @@ Working Papers
 
 
 <div class="paper-entry">
-  <h3><a href="/files/IndexFisDom.pdf" target="_blank">Inflation-Indexed Debt and the Risks of Fiscal Dominance</a></h3>
+  <h3>Inflation-Indexed Debt and the Risks of Fiscal Dominance</h3>
   <p style="font-size: 0.9em; margin-top: 0.3rem;">
     (joint with <a href="https://users.ox.ac.uk/~exet2581/" target="_blank">Martin Ellison</a>)
   </p>
+  <p style="font-size: 0.9em; margin-top: 0.3rem;">
+    Draft available upon request.
+  </p>
+  
     <p style="font-size: 0.9em; color: gray;"><em>Recent presentations:</em> CEPR 2nd Workshop on Modelling Fiscal Policy | Riksbank Research Conference on New Challenges for Monetary-Fiscal Policy Interactions </p>
   <div class="abstract">
    <strong>Abstract:</strong>  The origins of recent U.S. inflation are the subject of much debate. One argument is that it has its roots in an expansion of debt-driven government spending, in what has been labelled fiscal dominance (Leeper, 1991) or a fiscally-led policy mix (Bianchi et al., 2023). We show that the risk of such fiscal dominance depends on the proportion of government debt that is indexed to inflation. Generally, the more debt is inflation-indexed the more likely fiscal policy is to dominate, even when the share of indexed debt is only around 10% as in the U.S. Empirical evidence links high proportions of inflation-indexed debt to low central bank independence, a high probability of suspending fiscal rules, and larger reactions of inflation to fiscal shocks.
