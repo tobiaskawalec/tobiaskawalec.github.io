@@ -23,7 +23,7 @@ Working Papers
 ======
 <div class="paper-entry">
   <h3><a href="/files/DIDI.pdf" target="_blank">Debt Indexation, Determinacy, and Inflation (Job Market Paper)</a></h3>
-  <p style="font-size: 0.9em; color: gray;"><em>Upcoming presentations:</em> Econometric Society EWM 2025 | ASSA 2026 </p>
+  <p style="font-size: 0.9em; color: gray;"><em>Recent presentations:</em> Econometric Society EWM 2025 | ASSA 2026 </p>
   <div class="abstract">
    <strong>Abstract:</strong>  Contrary to popular belief, inflation-indexed government debt can boost inflation in response to deficit shocks, conditional on a lack of sufficient future fiscal backing. I formalize this insight through a state-of-the-art calibrated HANK model with multiple asset types, showing that the annual inflationary effect of a 1% deficit-to-GDP shock increases by 0.5 percentage points when 30% of the government debt stock is indexed to inflation, as is the case in the United Kingdom. Inflation-indexed debt makes the price level partially backward-looking through the government debt valuation equation, thereby causing additional inflationary pressure. Empirical evidence from a large, narratively identified fiscal deficit shock supports this finding, which has additional implications for the distinction between 'fiscally-led' mechanisms and 'HANK-type' mechanisms surpassing Ricardian equivalence.
   </div>
@@ -31,13 +31,13 @@ Working Papers
 
 
 <div class="paper-entry">
-  <h3><a href="/files/CCH_TK_OurDeficitYourProblem.pdf" target="_blank">Our Deficit, Your Problem: Fiscal Sustainability and Exchange Rates</a></h3>
+  <h3><a href="/files/CCH_TK_OurDeficitYourProblem.pdf" target="_blank">Our Deficit, Your Problem: Fiscal Sustainability, Exchange Rates, and Inflation</a></h3>
   <p style="font-size: 0.9em; margin-top: 0.3rem;">
     (joint with <a href="https://chrishyland.github.io/" target="_blank">Chris Hyland</a>)
   </p>
-  <p style="font-size: 0.9em; color: gray;"><em>Upcoming presentations:</em> University of Konstanz | LSE Macro PhD Workshop </p>
+  <p style="font-size: 0.9em; color: gray;"><em>Recent presentations:</em> University of Konstanz | LSE Macro PhD Workshop </p>
   <div class="abstract">
-   <strong>Abstract:</strong>  We develop and estimate an open-economy present-value framework for the government budget constraint that embeds discount factors, exchange-rate expectations, and time-varying foreign-exchange risk premia. Using newly constructed market-value data for U.K. and U.S. public debt covering 1975-2024, we document that unexpected changes in the debt ratio are split equally between revisions to expected future surpluses and discount-rate news; the latter reflects movements in global real yields, revisions to expected real exchange rates, and UIP-premium shocks. Surplus innovations recovered from market prices is shown to materially affect the bilateral real exchange rate. We then present a tractable two-country model in which fiscal shocks in a financial hegemon propagate internationally through exchange-rate adjustments that feed back into real interest rates; the model rationalises the empirical shares and predicts “fiscal contagion” across sovereign balance sheets. A continuous-time general equilibrium framework further shows how exchange rate movements can be induced by changes to relative surpluses and debt issuances.
+   <strong>Abstract:</strong>  Fiscal expansions can transmit internationally. Empirically, we develop an open-economy present-value framework for the government budget constraint that embeds discount factors, exchange rate expectations, and time-varying foreign-exchange risk premia. Using market value data for U.K.  and U.S.  public debt covering 1975-2024, we document that real exchange rate and interest rate revisions are materially related to unexpected changes in the value of government debt. Fiscal deficit innovations derived from market-value changes of government debt affect the bilateral real exchange rate and contribute to cross-country inflation spillovers. We then present a continuous-time two-country model in which fiscal shocks in a financial hegemon propagate internationally through exchange rate adjustments that feed back into real interest rates. The model rationalises the empirical magnitudes and predicts "fiscal contagion" across sovereign balance sheets: the associated wealth effects and discount-rate spillovers boost inflation across countries. An estimated version of the model attributes approximately 2 percentage points of the cumulative inflationary pressure in the U.K. since 2021 to spillovers from expansionary U.S. fiscal policy.
   </div>
 </div>
 
