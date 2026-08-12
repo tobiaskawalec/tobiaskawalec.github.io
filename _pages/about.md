@@ -22,8 +22,8 @@ You can find my research [here](https://tobiaskawalec.github.io/research) and my
 Working Papers
 ======
 <div class="paper-entry">
-  <h3><a href="/files/DIDI.pdf" target="_blank">Debt Indexation, Determinacy, and Inflation (Job Market Paper)</a></h3>
-  <p style="font-size: 0.9em; color: gray;"><em>Recent presentations:</em> Econometric Society EWM 2025 | ASSA 2026 </p>
+  <h3><a href="/files/DIDI.pdf" target="_blank">Debt Indexation, Determinacy, and Inflation</a></h3>
+  <p style="font-size: 0.9em; color: gray;"><em>In preparation for submission.</em> </p>
   <div class="abstract">
    <strong>Abstract:</strong>  Contrary to popular belief, inflation-indexed government debt can boost inflation in response to deficit shocks, conditional on a lack of sufficient future fiscal backing. I formalize this insight through a state-of-the-art calibrated HANK model with multiple asset types, showing that the annual inflationary effect of a 1% deficit-to-GDP shock increases by 0.5 percentage points when 30% of the government debt stock is indexed to inflation, as is the case in the United Kingdom. Inflation-indexed debt makes the price level partially backward-looking through the government debt valuation equation, thereby causing additional inflationary pressure. Empirical evidence from a large, narratively identified fiscal deficit shock supports this finding, which has additional implications for the distinction between 'fiscally-led' mechanisms and 'HANK-type' mechanisms surpassing Ricardian equivalence.
   </div>
@@ -31,29 +31,37 @@ Working Papers
 
 
 <div class="paper-entry">
-  <h3><a href="/files/CCH_TK_OurDeficitYourProblem.pdf" target="_blank">Our Deficit, Your Problem: Fiscal Sustainability, Exchange Rates, and Inflation</a></h3>
+  <h3><a href="/files/CCH_TK_OurDeficitYourProblem.pdf" target="_blank">Our Deficit, Your Problem? Fiscal Sustainability, Exchange Rates, and Inflation</a></h3>
   <p style="font-size: 0.9em; margin-top: 0.3rem;">
     (joint with <a href="https://chrishyland.github.io/" target="_blank">Chris Hyland</a>)
   </p>
-  <p style="font-size: 0.9em; color: gray;"><em>Recent presentations:</em> University of Konstanz | LSE Macro PhD Workshop </p>
+  <p style="font-size: 0.9em; color: gray;"><em>Upcoming presentations:</em> EEA-ESEM 2026 | Verein für Socialpolitik 2026 | 6th University of Oxford, Federal Reserve Bank of New York and Bank of England Monetary Economics Conference </p>
   <div class="abstract">
-   <strong>Abstract:</strong>  Fiscal expansions can transmit internationally. Empirically, we develop an open-economy present-value framework for the government budget constraint that embeds discount factors, exchange rate expectations, and time-varying foreign-exchange risk premia. Using market value data for U.K.  and U.S.  public debt covering 1975-2024, we document that real exchange rate and interest rate revisions are materially related to unexpected changes in the value of government debt. Fiscal deficit innovations derived from market-value changes of government debt affect the bilateral real exchange rate and contribute to cross-country inflation spillovers. We then present a continuous-time two-country model in which fiscal shocks in a financial hegemon propagate internationally through exchange rate adjustments that feed back into real interest rates. The model rationalises the empirical magnitudes and predicts "fiscal contagion" across sovereign balance sheets: the associated wealth effects and discount-rate spillovers boost inflation across countries. An estimated version of the model attributes approximately 2 percentage points of the cumulative inflationary pressure in the U.K. since 2021 to spillovers from expansionary U.S. fiscal policy.
+   <strong>Abstract:</strong>  Fiscal deficits in a financial hegemon transmit to inflation and exchange rates abroad. Using market-value data on U.K. and U.S. sovereign debt over 1975-2024, we recover model-consistent fiscal deficit innovations an  document two empirical regularities: U.S. deficit shocks appreciate the U.K. real exchange rate on impact and raise U.K. consumer prices persistently, with a transmitted magnitude roughly half that of own-country U.K.\ deficit shocks. We rationalise these facts in a quantitative continuous-time two-country model in which hegemon bonds carry a convenience yield. A hegemon fiscal expansion tightens the foreign intertemporal budget constraint through two channels: a wealth effect on foreign holders of hegemon debt, and a discount-rate spillover that revalues foreign sovereign liabilities. We call this mechanism fiscal contagion and show that it operates across a broad range of monetary-fiscal policy mixes. An estimated version of the model attributes roughly two percentage points of cumulative U.K. inflation since 2021 to spillovers from U.S. fiscal policy.
   </div>
 </div>
 
 
 <div class="paper-entry">
-  <h3>Inflation-Indexed Debt and the Risks of Fiscal Dominance</h3>
+    <h3><a href="/files/IndexedIndeterminacy.pdf" target="_blank">Inflation-Indexed Debt and the Risks of Fiscal Dominance</a></h3>
+    <p style="font-size: 0.9em; color: gray;"><em>Upcoming presentations:</em> EEA-ESEM 2026 | Verein für Socialpolitik 2026  </p>
+  <div class="abstract">
+   <strong>Abstract:</strong>  The origins of the post-2020 inflation are the subject of much debate. One argument has its roots in an unfunded expansion of debt-driven government spending, in what has been labelled fiscal dominance or a fiscally-led policy mix. We show that the risks of such fiscal dominance depend on the degree to which government debt is indexed to inflation. Inflation-indexation has a nonlinear effect on the existence of saddlepath equilibria, and can amplify the inflationary effects of deficit shocks when policy is fiscally led unless monetary and fiscal policy enact coordinated policies that limit, or even invert, the windfall gains borne by households holding indexed debt. Empirical evidence links inflation-indexed debt to low central bank independence, a high probability of suspending fiscal rules, and a larger reaction of inflation to fiscal shocks.
+  </div>
+</div>
+
+
+
+<div class="paper-entry">
+  <h3>Towards a Bullwhip Theory of Supply Chains</h3>
   <p style="font-size: 0.9em; margin-top: 0.3rem;">
-    (joint with <a href="https://users.ox.ac.uk/~exet2581/" target="_blank">Martin Ellison</a>)
+    (joint with <a href="https://mcmahonecon.com" target="_blank">Michael McMahon</a>)
   </p>
   <p style="font-size: 0.9em; margin-top: 0.3rem;">
     Draft available upon request.
   </p>
-  
-    <p style="font-size: 0.9em; color: gray;"><em>Recent presentations:</em> CEPR 2nd Workshop on Modelling Fiscal Policy | Riksbank Research Conference on New Challenges for Monetary-Fiscal Policy Interactions </p>
   <div class="abstract">
-   <strong>Abstract:</strong>  The origins of recent U.S. inflation are the subject of much debate. One argument is that it has its roots in an expansion of debt-driven government spending, in what has been labelled fiscal dominance (Leeper, 1991) or a fiscally-led policy mix (Bianchi et al., 2023). We show that the risk of such fiscal dominance depends on the proportion of government debt that is indexed to inflation. Generally, the more debt is inflation-indexed the more likely fiscal policy is to dominate, even when the share of indexed debt is only around 10% as in the U.S. Empirical evidence links high proportions of inflation-indexed debt to low central bank independence, a high probability of suspending fiscal rules, and larger reactions of inflation to fiscal shocks.
+   <strong>Abstract:</strong>  This paper develops a macroeconomic model of supply chains, in which demand, captured by explicit order placement, need not be fulfilled concurrently. Our model gives rise to precautionary inventory accumulation behaviour and the amplification of shocks on supply chains, endogenously giving rise to the 'bullwhip effect' known from the Operations Research literature under additional conditions. The basic model is capable of approximating the relative dynamics of the (inventory-)sales volatility on the upper end of the supply chain relative to the lower end of the supply chain in response to shocks on the production and delivery technology. In addition, the model highlights the importance of price adjustment to ensure intertemporal market clearing when order backlogs become too costly. The model mechanism is highly dependent on demand-side policies, which matter significantly for the extent of the bullwhip effect observable in equilibrium.
   </div>
 </div>
 
@@ -78,12 +86,33 @@ Work in progress
   </p>
 </div>
 
+
+
 <div class="work-entry">
-  <h3>Towards a Bullwhip Theory of Supply Chains</h3>
+  <h3>The Political Economy of Wealth Heterogeneity</h3>
   <p style="font-size: 0.9em; margin-top: 0.3rem;">
-    (joint with <a href="https://mcmahonecon.com" target="_blank">Michael McMahon</a>)
+    (joint with <a href="https://www.rustamjamilov.com/" target="_blank">Rustam Jamilov</a>)
   </p>
 </div>
+
+
+<div class="work-entry">
+  <h3>The Investor Composition of Public Debt</h3>
+  <p style="font-size: 0.9em; margin-top: 0.3rem;">
+    (joint with <a href="https://www.sitongding.com/" target="_blank">Sitong Ding</a> and <a href="https://chrishyland.github.io/" target="_blank">Chris Hyland</a>)
+  </p>
+</div>
+
+
+<div class="work-entry">
+  <h3>State-Dependent Bond Premia on Debt</h3>
+  <p style="font-size: 0.9em; color: gray;"><em>Upcoming presentations:</em> IMF | AEA 2027  </p>
+  <p style="font-size: 0.9em; margin-top: 0.3rem;">
+    (joint with <a href="https://sites.google.com/site/geeheehong/" target="_blank">Gee Hee Hong</a>, <a href="https://sites.google.com/site/anecon14/home" target="_blank">Anh Dinh Minh Nguyen</a>, and <a href="https://users.ox.ac.uk/~wadh4073/" target="_blank">Francesco Zanetti</a>)
+  </p>
+</div>
+
+
 
 
 
