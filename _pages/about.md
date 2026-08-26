@@ -35,7 +35,7 @@ Working Papers
   <p style="font-size: 0.9em; margin-top: 0.3rem;">
     (joint with <a href="https://chrishyland.github.io/" target="_blank">Chris Hyland</a>)
   </p>
-  <p style="font-size: 0.9em; color: gray;"><em>Upcoming presentations:</em> EEA-ESEM 2026 | Verein für Socialpolitik 2026 | 6th University of Oxford, Federal Reserve Bank of New York and Bank of England Monetary Economics Conference </p>
+  <p style="font-size: 0.9em; color: gray;"><em>Recent presentations:</em> EEA-ESEM 2026 | Verein für Socialpolitik 2026 | 6th University of Oxford, Federal Reserve Bank of New York and Bank of England Monetary Economics Conference </p>
   <div class="abstract">
    <strong>Abstract:</strong>  Fiscal deficits in a financial hegemon transmit to inflation and exchange rates abroad. Using market-value data on U.K. and U.S. sovereign debt over 1975-2024, we recover model-consistent fiscal deficit innovations an  document two empirical regularities: U.S. deficit shocks appreciate the U.K. real exchange rate on impact and raise U.K. consumer prices persistently, with a transmitted magnitude roughly half that of own-country U.K.\ deficit shocks. We rationalise these facts in a quantitative continuous-time two-country model in which hegemon bonds carry a convenience yield. A hegemon fiscal expansion tightens the foreign intertemporal budget constraint through two channels: a wealth effect on foreign holders of hegemon debt, and a discount-rate spillover that revalues foreign sovereign liabilities. We call this mechanism fiscal contagion and show that it operates across a broad range of monetary-fiscal policy mixes. An estimated version of the model attributes roughly two percentage points of cumulative U.K. inflation since 2021 to spillovers from U.S. fiscal policy.
   </div>
@@ -44,9 +44,9 @@ Working Papers
 
 <div class="paper-entry">
     <h3><a href="/files/IndexedIndeterminacy.pdf" target="_blank">Inflation-Indexed Debt and the Risks of Fiscal Dominance</a></h3>
-    <p style="font-size: 0.9em; color: gray;"><em>Upcoming presentations:</em> EEA-ESEM 2026 | Verein für Socialpolitik 2026  </p>
+    <p style="font-size: 0.9em; color: gray;"><em>Recent presentations:</em> EEA-ESEM 2026 | Verein für Socialpolitik 2026  </p>
   <div class="abstract">
-   <strong>Abstract:</strong>  The origins of the post-2020 inflation are the subject of much debate. One argument has its roots in an unfunded expansion of debt-driven government spending, in what has been labelled fiscal dominance or a fiscally-led policy mix. We show that the risks of such fiscal dominance depend on the degree to which government debt is indexed to inflation. Inflation-indexation has a nonlinear effect on the existence of saddlepath equilibria, and can amplify the inflationary effects of deficit shocks when policy is fiscally led unless monetary and fiscal policy enact coordinated policies that limit, or even invert, the windfall gains borne by households holding indexed debt. Empirical evidence links inflation-indexed debt to low central bank independence, a high probability of suspending fiscal rules, and a larger reaction of inflation to fiscal shocks.
+   <strong>Abstract:</strong>  The origins of the post-2020 inflation are the subject of much debate. One argument has its roots in an unfunded expansion of debt-driven government spending, in what has been labeled fiscal dominance or a fiscally-led policy mix. We show that the risks of such fiscal dominance depend on the degree to which government debt is indexed to inflation. Inflation-indexation has a nonlinear effect on the existence of saddlepath equilibria, and can amplify the inflationary effects of deficit shocks when policy is fiscally led unless monetary and fiscal policy enact coordinated policies that limit, or even invert, the windfall gains enjoyed by households holding indexed debt. 
   </div>
 </div>
 
