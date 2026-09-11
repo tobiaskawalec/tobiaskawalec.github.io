@@ -7,11 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-I am a DPhil (PhD) student in Economics at the [University of Oxford](https://www.economics.ox.ac.uk/), supervised by [Michael McMahon](https://mcmahonecon.com/) and [Martin Ellison](https://users.ox.ac.uk/~exet2581/). You can find my CV [here](/files/cv.pdf).
+I am an Assistant Professor at the [University of Vienna](https://econ.univie.ac.at/). You can find my CV [here](/files/cv.pdf). 
 
-My research interests center around theoretical macroeconomics, with a particular focus on the importance of fiscal deficits and monetary-fiscal policy interactions. Recently, I have also been affiliated with the World Bank, the Kiel Institute for the World Economy, and Deutsche Bundesbank.
+My research interests center around theoretical macroeconomics, with a particular focus on the importance of fiscal deficits, sovereign debt, and monetary-fiscal policy interactions. 
 
-I will be joining the University of Vienna as an Assistant Professor in September 2026.
+I hold a PhD from the University of Oxford. Recently, I have also been affiliated with the World Bank, the Kiel Institute for the World Economy, and Deutsche Bundesbank.
 
 
 <!---
@@ -25,7 +25,7 @@ Working Papers
   <h3><a href="/files/DIDI.pdf" target="_blank">Debt Indexation, Determinacy, and Inflation</a></h3>
   <p style="font-size: 0.9em; color: gray;"><em>In preparation for submission.</em> </p>
   <div class="abstract">
-   <strong>Abstract:</strong>  Contrary to popular belief, inflation-indexed government debt can boost inflation in response to deficit shocks, conditional on a lack of sufficient future fiscal backing. I formalize this insight through a state-of-the-art calibrated HANK model with multiple asset types, showing that the annual inflationary effect of a 1% deficit-to-GDP shock increases by 0.5 percentage points when 30% of the government debt stock is indexed to inflation, as is the case in the United Kingdom. Inflation-indexed debt makes the price level partially backward-looking through the government debt valuation equation, thereby causing additional inflationary pressure. Empirical evidence from a large, narratively identified fiscal deficit shock supports this finding, which has additional implications for the distinction between 'fiscally-led' mechanisms and 'HANK-type' mechanisms surpassing Ricardian equivalence.
+   <strong>Abstract:</strong>  Contrary to popular belief, inflation-indexed government debt can boost inflation in response to deficit shocks, conditional on a lack of sufficient future fiscal backing. I formalize this insight through a state-of-the-art calibrated HANK model with multiple asset types, showing that the annual inflationary effect of a 1% unfunded government spending-to-GDP shock under a fiscally-led policy mix increases by 0.234 percentage points when 27% of the government debt stock is indexed to inflation, as is the case in the United Kingdom, relative to a baseline case calibrated without indexed debt. Inflation-indexed debt makes the price level partially backward-looking through the government debt valuation equation, thereby causing additional inflationary pressure. Empirical evidence from a large, narratively identified fiscal deficit shock supports this finding, which has additional implications for the distinction between 'fiscally-led' mechanisms and 'HANK-type' mechanisms surpassing Ricardian equivalence, as well as for the distributional consequences of fiscally-driven inflation.
   </div>
 </div>
 
@@ -35,7 +35,7 @@ Working Papers
   <p style="font-size: 0.9em; margin-top: 0.3rem;">
     (joint with <a href="https://chrishyland.github.io/" target="_blank">Chris Hyland</a>)
   </p>
-  <p style="font-size: 0.9em; color: gray;"><em>Recent presentations:</em> EEA-ESEM 2026 | Verein für Socialpolitik 2026 | 6th University of Oxford, Federal Reserve Bank of New York and Bank of England Monetary Economics Conference </p>
+  <p style="font-size: 0.9em; color: gray;"><em>Recent presentations:</em> Verein für Socialpolitik 2026 | 28th Macro Finance Society Workshop | CEPR European Economic Policy RPN | 6th University of Oxford, Federal Reserve Bank of New York and Bank of England Monetary Economics Conference </p>
   <div class="abstract">
    <strong>Abstract:</strong>  Fiscal deficits in a financial hegemon transmit to inflation and exchange rates abroad. Using market-value data on U.K. and U.S. sovereign debt over 1975-2024, we recover model-consistent fiscal deficit innovations an  document two empirical regularities: U.S. deficit shocks appreciate the U.K. real exchange rate on impact and raise U.K. consumer prices persistently, with a transmitted magnitude roughly half that of own-country U.K.\ deficit shocks. We rationalise these facts in a quantitative continuous-time two-country model in which hegemon bonds carry a convenience yield. A hegemon fiscal expansion tightens the foreign intertemporal budget constraint through two channels: a wealth effect on foreign holders of hegemon debt, and a discount-rate spillover that revalues foreign sovereign liabilities. We call this mechanism fiscal contagion and show that it operates across a broad range of monetary-fiscal policy mixes. An estimated version of the model attributes roughly two percentage points of cumulative U.K. inflation since 2021 to spillovers from U.S. fiscal policy.
   </div>
