@@ -44,7 +44,7 @@ Working Papers
 
 <div class="paper-entry">
     <h3><a href="/files/IndexedIndeterminacy.pdf" target="_blank">Inflation-Indexed Debt and the Risks of Fiscal Dominance</a></h3>
-    <p style="font-size: 0.9em; color: gray;"><em>Submitted.  </p>
+    <p style="font-size: 0.9em; color: gray;"><em>Submitted. </em> </p>
   <div class="abstract">
    <strong>Abstract:</strong>  The origins of the post-2020 inflation are the subject of much debate. One argument has its roots in an unfunded expansion of debt-driven government spending, in what has been labeled fiscal dominance or a fiscally-led policy mix. We show that the risks of such fiscal dominance depend on the degree to which government debt is indexed to inflation. Inflation-indexation has a nonlinear effect on the existence of saddlepath equilibria, and can amplify the inflationary effects of deficit shocks when policy is fiscally led unless monetary and fiscal policy enact coordinated policies that limit, or even invert, the windfall gains enjoyed by households holding indexed debt. 
   </div>
