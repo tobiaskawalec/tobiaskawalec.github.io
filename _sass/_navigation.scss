@@ -184,7 +184,8 @@
     color: $masthead-link-color;
     text-decoration: none;
 
-    &:hover {
+    &:hover,
+    &[aria-current="page"] {
       color: $masthead-link-color-hover;
     }
   }
@@ -243,7 +244,8 @@
                 transform: scaleX(0); /* hide*/
       }
 
-      &:hover:before {
+      &:hover:before,
+      &[aria-current="page"]:before {
         -webkit-transform: scaleX(1);
             -ms-transform: scaleX(1);
                 transform: scaleX(1); /* reveal*/
