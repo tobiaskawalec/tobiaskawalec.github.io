@@ -8,6 +8,16 @@ author_profile: true
 Here you can find materials related to recent discussions of mine.
 
 <div class="paper-entry">
+  <h3><a href="/files/ChalleSavoia_Discussion.pdf" target="_blank">Targeted Fiscal Transfers under Heterogeneous Unemployment Risk</a></h3>
+  <p style="font-size: 0.9em; margin-top: 0.3rem;">
+    By Edouard Challe and Ettore Savoia.
+  </p>
+  <p style="font-size: 0.9em; color: gray;">
+    29th Annual Research Conference of the Dutch Central Bank · November 10, 2026
+  </p>
+</div>
+
+<div class="paper-entry">
   <h3><a href="/files/Zaratiegui_InflationSources_Discussion.pdf" target="_blank">The Perceived Sources of Unexpected Inflation</a></h3>
   <p style="font-size: 0.9em; margin-top: 0.3rem;">
     By Kosha Modi and Emilio Zaratiegui.
